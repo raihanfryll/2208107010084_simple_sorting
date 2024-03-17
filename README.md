@@ -18,5 +18,11 @@ Tunggu Proses Eksekusi: Program akan mulai mengeksekusi dan menghasilkan output 
 
 
 
+# Fungsi-fungsi yang ada dalam kode program ini adalah sebagai berikut:
 
+1. generateRandomNumbers(int *arr, int size): Fungsi ini digunakan untuk menghasilkan bilangan acak dalam array dengan ukuran tertentu.
+2. bubbleSort(int *arr, int size): Fungsi ini mengimplementasikan algoritma Bubble Sort untuk mengurutkan array yang diberikan.
+3. selectionSort(int *arr, int size): Fungsi ini mengimplementasikan algoritma Selection Sort untuk mengurutkan array yang diberikan.
+4. insertionSort(int *arr, int size): Fungsi ini mengimplementasikan algoritma Insertion Sort untuk mengurutkan array yang diberikan.
+5. saveToFile(int *arr, int size, const char *filename): Fungsi ini digunakan untuk menyimpan bilangan yang belum diurutkan dan sudah diurutkan ke dalam file teks dengan nama yang ditentukan.
 
