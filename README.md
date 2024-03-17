@@ -7,7 +7,7 @@
 bash
 gcc 2208107010084_simple_sorting.c -o  2208107010084_simple_sorting
 
-Ini akan menghasilkan file executable dengan nama 2208107010084_simple_sorting (atau sesuai dengan nama yang Anda tentukan dalam perintah -o).
+5. Ini akan menghasilkan file executable dengan nama 2208107010084_simple_sorting (atau sesuai dengan nama yang Anda tentukan dalam perintah -o).
 
 6. Jalankan Program: Setelah berhasil dikompilasi, jalankan program dengan mengetikkan nama file executable (atau sesuaikan dengan nama yang Anda tentukan) di terminal atau command prompt, dan tekan Enter.
 bash
