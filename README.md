@@ -1,4 +1,4 @@
-# langkah-langkah untuk menjalankan kode program bahasa C 2208107010084_simple_sorting.c
+# Langkah-langkah untuk menjalankan kode program bahasa C 2208107010084_simple_sorting.c
 
 1. Buka Text Editor atau IDE: Buka text editor atau Integrated Development Environment (IDE) seperti Visual Studio Code, Dev-C++, atau Code::Blocks.
 2. Buat File Baru: Buat file baru dengan ekstensi .c, misalnya sorting_performance.c, dan salin kode program di atas ke dalam file tersebut.
